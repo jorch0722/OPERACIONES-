@@ -1,1 +1,0 @@
-# opreaciones.h
